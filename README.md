@@ -2,7 +2,7 @@
 - 👀 I’m interested in Back-end Web Development
 - 🌱 I’m currently learning Web Development
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 How to reach me kanan.ghurbanov@gmail.com
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: i'm genius
 
