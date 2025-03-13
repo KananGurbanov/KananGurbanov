@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @KananGurbanov
 - 👀 I’m interested in Back-end Web Development
-- 🌱 I’m currently learning Test Automation
+- 🌱 I’m currently learning Automation
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me kanan.gurbanov.02@gmail.com
 - 😄 Pronouns: he/him
