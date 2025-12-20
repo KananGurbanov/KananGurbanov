@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @KananGurbanov
-- 👀 I’m interested in Backend Web Development
-- 🌱 I’m currently learning Software Automation
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in Software Engineering
+- 🌱 I’m currently doing Software Automation
 - 📫 How to reach me kanan.gurbanov.02@gmail.com
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: i'm genius
