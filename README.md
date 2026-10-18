@@ -3,7 +3,7 @@
 - 🌱 I’m currently doing Software Automation
 - 📫 How to reach me kanan.gurbanov.02@gmail.com
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: i'm genius
+- ⚡ Fun fact: I'm genius
 
 <!---
 KananGurbanov/KananGurbanov is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
