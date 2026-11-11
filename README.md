@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @KananGurbanov
 - 👀 I’m interested in Software Engineering
-- 🌱 I’m currently doing Software Automation
+- 🌱 I’m currently doing Software Automation / SDET
 - 📫 How to reach me kanan.gurbanov.02@gmail.com
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I'm genius
